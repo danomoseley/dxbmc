@@ -25,3 +25,8 @@ The program will run in autonomous mode when supplied with any arguments (no mat
   * *GUser* - Sets the google username to use for SMTP access. Automatically sets Email to 1.
   * *GPass* - Sets the google pasword to use for SMTP access. Automatically sets Email to 1.
   * *Shutdown* [0/1] - Sets whether or not you would like your computer to be shutdown after a successful session.
+
+
+
+==Some examples==
+dXBMC.exe /BuildType:Update /Rebuild:0 /FTP:1 /Rename:XBMC /Shutdown:1
