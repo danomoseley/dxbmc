@@ -29,4 +29,4 @@ The program will run in autonomous mode when supplied with any arguments (no mat
 
 
 ==Some examples==
-dXBMC.exe /BuildType:Update /Rebuild:0 /FTP:1 /Rename:XBMC /Shutdown:1
+     dXBMC.exe /BuildType:Update /Rebuild:0 /FTP:1 /Rename:XBMC /Shutdown:1
