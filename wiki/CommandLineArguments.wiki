@@ -6,7 +6,7 @@ The program will run in autonomous mode when supplied with any arguments (no mat
 
 
 = Details =
-
+  [0/1] indicates option takes an argument of 0 or 1.
   * *Build* [0/1] - Sets whether or not you would like a new build to be downloaded and built.
   * *BuildType* - an option of "Update", "Fresh", or "Local" can be supplied. Automatically sets Build to 1.
   * *Rebuild* [0/1] - Sets whether or not you would like to do a clean rebuild rather than an updated build. Automatically sets Build to 1.
