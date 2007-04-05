@@ -1,6 +1,13 @@
 #summary Ongoing changelog for dXBMC
 
 = Introduction =
+
+   ===r012 not yet released, I'm just listing the changes I've made so I don't forget===
+   * *r012* Updated: updated a few more error messages to match the standard
+   * *r012* Fixed: Batch mode settings wasn't in the settings file, and there was an uneeded ftpmode settings there (you may need to delete settings.xml, you'll get an error if you need to)
+   * *r012* Fixed: Throws error when unable to update settings.xml too
+   * *r012* Fixed: Now throws errors if there's a problem opening or parsing the settings.xml
+
    * *r011* Changed to not send email on "abort" too
    * *r010* Changed: Error handling/program exit conditions/and error logging
    * *r010* Updated: Logging behavior
