@@ -1,11 +1,11 @@
 #summary Ongoing changelog for dXBMC
 
 = Introduction =
-
+   * *r011* Changed to not send email on "abort" too
    * *r010* Changed: Error handling/program exit conditions/and error logging
    * *r010* Updated: Logging behavior
    * *r010* Fixed: Email sending now syncronous instead of asyncronous, log file was probably locked when trying to send email
    * *r010* Removed: "skipped" steps from log
    * *r010* Fixed: When ftp as folder was checked, but no rename text entered the program would error, now it default ftps to folder "Build"
    * *r010* Fixed: Redundant shutdown conditions, let me know if anything there is messed up.
-   * *r010* Added: Emails are now always sent before environment exit if the option is checked, only time they are not is if error in command line option or exit through "cancel", "abort" or "close" buttons
+   * *r010* Added: Emails are now always sent before environment exit if the option is checked, only time they are not is if error in command line option or exit through "cancel" or "close" buttons
