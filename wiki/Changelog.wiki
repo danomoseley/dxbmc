@@ -2,6 +2,9 @@
 
 = Introduction =
 
+   * *r013* Fixed: Cut the size of the exe in half by compressing pictures used by the program
+   * *r013* Fixed: Fixed more of the error checking / general code layout
+
    * *r012* Added: Custom SMTP server support as requested by _gehx_
    * *r012* Updated: updated a few more error messages to match the standard
    * *r012* Fixed: Batch mode settings wasn't in the settings file, and there was an uneeded ftpmode settings there (you may need to delete settings.xml, you'll get an error if you need to)
