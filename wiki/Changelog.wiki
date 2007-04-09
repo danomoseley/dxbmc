@@ -1,6 +1,7 @@
 #summary Ongoing changelog for dXBMC
 
 = Introduction =
+   * *r014* Added: Revision number to main GUI
    * *r014* Changed: Options now greyed out if parent option is not selected, ie if ftp is not selected then all ftp options are greyed out
    * *r014* Changed: Hidden ftp as folder settings when user doesn't need them
    * *r014* Changed: Hidden custom SMTP settings when user doesn't need them
